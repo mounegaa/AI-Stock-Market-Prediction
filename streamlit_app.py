@@ -9,7 +9,7 @@ import os
 
 DATA_DIR = "data"
 VIX_FILE = "INDIA VIX_minute.csv"
-MODEL_PATH = "baseline_logreg_model.joblib"
+MODEL_PATH = "model_direction.joblib"
 FEATURES_PATH = "features.pkl"
 HORIZON = 10
 
